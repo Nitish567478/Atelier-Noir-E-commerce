@@ -109,8 +109,6 @@ export default function Home({ onAddToCart }) {
             </button>
           </div>
         </div>
-
-
         <div className="hero-image">
           <img
             src="https://images.unsplash.com/photo-1483985988355-763728e1935b?q=80&w=1400&auto=format&fit=crop"
@@ -133,8 +131,6 @@ export default function Home({ onAddToCart }) {
           <span className="diamond">◆</span>
           <span>HAND-FINISHED SEAMS</span>
           <span className="diamond">◆</span>
-
-
           <span>MADE IN PORTUGAL & JAPAN</span>
           <span className="diamond">◆</span>
           <span>CARBON-NEUTRAL SHIPPING</span>

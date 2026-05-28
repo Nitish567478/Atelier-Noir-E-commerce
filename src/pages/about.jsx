@@ -3,7 +3,7 @@ export default function About() {
     <section id="about" className="about-section" style={{ scrollMarginTop: '110px' }}>
       <div className="about-inner">
         <div className="about-header">
-          <span className="about-label">ABOUT</span>
+          <span className="about-label">Est. 2026 · Ranchi / Jharkhand</span>
           <h1> Atelier Noir is <span> made slowly.</span></h1>
         </div>
 

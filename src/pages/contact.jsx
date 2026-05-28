@@ -14,7 +14,7 @@ export default function Contact() {
       )}
       <div className="contact-inner">
         <div className="contact-header">
-          <span className="contact-label">CONTACT</span>
+          <span className="contact-label">GET IN TOUCH</span>
           <h1>Say hello. <span>We reply.</span></h1>
           <p className="contact-subtitle">For orders, sizing, or care advice — send a message and our atelier team  will respond. </p>
         </div>
@@ -26,7 +26,7 @@ export default function Contact() {
             </div>
             <div className="info-block">
               <div className="info-title"> Studio </div>
-              <div className="info-value"> Porto · Kyoto</div>
+              <div className="info-value"> Ranchi · Jharkhand</div>
             </div>
             <div className="info-block">
               <div className="info-title"> Hours </div>
@@ -51,8 +51,7 @@ export default function Contact() {
 
             <input className="form-full" type="text" placeholder="Subject" required />
             <textarea className="form-full" rows="6" placeholder="Message" required ></textarea>
-            <button className="contact-submit" type="submit"
-            >
+            <button className="contact-submit" type="submit">
               SEND MESSAGE →
             </button>
           </form>
